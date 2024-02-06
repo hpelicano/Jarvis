@@ -1,0 +1,2 @@
+AUDIT,/home/hpelicano/Roman/C_Programming/Cliente-Servidor/Servidor/mod/libaudit.so
+ENFRM,/home/hpelicano/Roman/C_Programming/Cliente-Servidor/Servidor/mod/libenfrm.so 
